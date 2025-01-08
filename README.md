@@ -54,9 +54,11 @@ Do not share your token publicly.\
 Misuse of the Bitbucket API may result in account suspension or other penalties.
 
 
-
+## ✍️ Author
+**s41n1k**\
+Twitter: [s41n1k](https://x.com/s41n1k) \
 **Thank you for Reading.**\
- **Happy Hunting!!**\
- **./s41n1k**
+ **Happy Hunting!!**
+
 
 
